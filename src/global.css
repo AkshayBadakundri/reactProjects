@@ -1,0 +1,27 @@
+.navdiv1{
+    background-color: rgb(171, 174, 174);
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    height: 75px;
+    margin: auto;
+    color: blue;
+
+}
+.menudiv2 ul {
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.menudiv2 ul li {
+    list-style: none;
+}
+.menudiv2 ul li a{
+    text-decoration: none;
+}
+img{
+    height: 50px;
+    width: 100px;
+    padding: 20px;
+}
