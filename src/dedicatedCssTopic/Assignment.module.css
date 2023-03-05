@@ -1,0 +1,147 @@
+.nav1{
+    color: blue;
+    font-size: 14px;
+    color:aliceblue;
+    padding-left:160px ;
+    font-family:  sans-serif;
+    font-weight: 800;
+    /* justify-content: space-around; */
+}
+.nav11{
+    font-size: 14px;
+    color:aliceblue;
+    padding-left:160px ;
+    font-family:  sans-serif;
+    font-weight: 800;
+   
+    
+}
+.flipkart{
+    background-color:#2a55e5;
+    display: flex;
+    
+}
+.na{
+    color: #E7B10A;
+}
+.nav123 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 50px ;
+}
+.nav123 ul li{
+    list-style: none;
+    padding: 10px;
+    margin-right: 30px;
+}
+.nav123 ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+input{
+    height: 20px;
+    width:220px;
+    font-size: 15px;
+}
+img{
+    height: 90px;
+    width:100px;
+}
+.Amazon{
+    display: flex;
+
+}
+.nav22 ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.nav22 ul li{
+    list-style: none;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.nav22 ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 40px ;
+}
+.Amazon{
+    background-color: rgb(152, 141, 141);
+}
+
+.nav33 ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 40px ;
+}
+.meesho{
+    background-color: rgb(237, 22, 151);
+}
+.nav33 ul li{
+    list-style: none;
+    padding: 10px;
+    margin-right: 30px;
+    
+}
+.nav33 ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.meesho{
+    display: flex;
+    border: 2px solid black;
+    align-content: center;
+}
+
+.myntra{
+    display: flex;
+
+}
+.nav44 ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.nav44 ul li{
+    list-style: none;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.nav44 ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 40px ;
+}
+.myntra{
+    background-color: rgb(207, 207, 45);
+}
+
+
+.nav555{
+    display: flex;
+
+}
+.nav55 ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.nav55 ul li{
+    list-style: none;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.nav55 ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 40px ;
+}
+.nav555{
+    background-color: rgb(53, 209, 97);
+}
